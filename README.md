@@ -1,3 +1,2 @@
-# hello-world
-initial repository
-this is for learning
+PhaMod is the manual for the PhaMod synthesizer, uoploaded to Native Instruments
+
