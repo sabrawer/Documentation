@@ -11,23 +11,13 @@
 .fntSz{
 	font-size: 16px;
 }
-
-
 </style>
-
 </head>
-
 <body onload="setFontSize()">
-
 <h1 style="text-align:center">Window Resize Example-1</h1>
 
 <p id="wh">width, height here</p> 
 <p id = "chngf" class="fntSz">font size determined by window width</p>
-
-
-
-
-
 <script>
 
 var begin = true; // set to false after onload()
@@ -52,16 +42,11 @@ function setFontSize(){
 	var sz = calcFontSize(wid);
 	chngf.style.fontSize=sz + "px";
 }
-
 function calcFontSize(width){
 	if(width < minw)return minFSz;
 	if(width > maxw) return maxFSz;
 	return Math.round(minFSz + (maxFSz-minFSz)*(width - minw)/(maxw-minw));
 }
-
-
-
-
 window.onresize=setFontSize;
 
 
