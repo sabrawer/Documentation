@@ -1,4 +1,4 @@
-The d3js document is a detailed technical look at a very narow part of d3.js, v. 4 - the selection aspect.
+The **d3js** document is a detailed technical look at a very narow part of d3.js, v. 4 - the selection aspect.
 
 The PhaMod doc is the documentation for a software music synthesizer created from Native Instruments Reaktor.
 
