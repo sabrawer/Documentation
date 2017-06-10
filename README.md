@@ -6,7 +6,7 @@ The document **back propagation derivation** is the derivation of the back propo
 
 The document **javascript prototypes and classes** is a tutorial on javascript prototypes and their relation to OOP.
 
-The program **contiguityForce-1** is the source code for the FCC force contiguity challenge. It will not run because the image files are not available here. The application is at 	https://s3.amazonaws.com/sabrawer-contiguity-force/contiguityForce-1.html. Read the documentation in the html file for comments. The images for the flags were downloaded as individual files from http://www.famfamfam.com/lab/icons/flags/
+The program **contiguityForce-1** is the source code for the FCC force contiguity challenge. It will not run because the image files are not available here. The application is at 	https://s3.amazonaws.com/sabrawer-contiguity-force/contiguityForce-1.html. Read the documentation in the html file for comments. The images for the flags were downloaded as individual files from http://www.famfamfam.com/lab/icons/flags/. This example may be useful because it shows how to use the images in SVG from within d3js.
 
 The document **deployNodeJsToHeroku** describes for beginners the simplest way to deploy the simplest NodeJS server.
 
